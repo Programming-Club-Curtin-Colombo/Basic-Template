@@ -16,7 +16,7 @@ This repository serves as a foundational structure for new projects, ensuring co
 3. Follow the instructions in [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Project Structure
-- `.github/`: CI/CD workflows and governance.
+- `.github/`: CI/CD workflows, governance, and security policy.
 - `tests/`: Automated test suite.
 - `ARCHITECTURE.md`: High-level system design.
 - `API.md`: Documentation for API endpoints or interfaces.
