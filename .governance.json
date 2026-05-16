@@ -25,5 +25,11 @@
   },
   "standards": {
     "enforceAPI": false
+  },
+  "requiredStages": {
+    "lint": true,
+    "test": true,
+    "security": true,
+    "build": "conditional"
   }
 }
